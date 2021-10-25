@@ -1,0 +1,22 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "Learn to use jest, the testing framework",
+  "main": "testEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hainn2009/learn-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hainn2009/learn-jest/issues"
+  },
+  "homepage": "https://github.com/hainn2009/learn-jest#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.0"
+  }
+}
